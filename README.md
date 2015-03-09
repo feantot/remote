@@ -9,7 +9,7 @@ Code to estimate daily solar global irradiation on a horizontal plane by means o
 GNU Licence ![GPL3](http://www.gnu.org/graphics/gplv3-127x51.png)
 ----
 
-    Copyright (C) 2014 Fernando Antonanzas-Torres and Oscar Perpiñán.
+    Copyright (C) 2015 R. Urraca, J. Antonanzas, F.J. Martinez-de-Pison, F. Antonanzas-Torres
   
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
